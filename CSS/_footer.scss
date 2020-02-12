@@ -1,0 +1,22 @@
+
+
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+
+    footer{
+        color: white;
+        text-align: center;
+        a{
+            text-decoration: none;
+            color: seagreen;
+            text-decoration-line: underline;
+            font-weight: bold;
+        }
+    }
+}
+
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+}

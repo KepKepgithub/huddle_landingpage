@@ -1,0 +1,15 @@
+
+    /* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+    body{
+        background-image: url(../images/bg-mobile.svg);
+        background-repeat: no-repeat;
+        background-color: $violet;
+        background-size: 100%;
+    }
+}
+
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+}

@@ -1,0 +1,17 @@
+
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+    .social_media{
+        width: 100%;
+        @include center;
+        padding: 3.5rem 0 2rem 0;
+        img{
+            padding: 0.3rem;
+        }
+    }
+}
+
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+}

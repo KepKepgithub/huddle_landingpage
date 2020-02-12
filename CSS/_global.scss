@@ -1,0 +1,19 @@
+
+h1,h2,h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-width: 300px) {
+    body{
+        padding:2.2rem;
+        padding-left: 2.3rem;
+    }
+}
+
+/* TABLET LANDSCAPE / DESKTOP */
+@media only screen and (min-width: 1024px) {
+}
